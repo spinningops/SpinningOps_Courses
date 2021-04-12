@@ -1,4 +1,4 @@
-# The Ultimate CloudOps
+# The Ultimate CloudOps Course
 ### Install Kubernetes with KOPS
 ### Automate Jobs with Jenkins
 ### Deploy Apps to Kuberneres
