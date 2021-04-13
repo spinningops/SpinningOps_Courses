@@ -6,6 +6,5 @@
 ![alt text](pics/cover_cloud_ops_course.png)
 
 
-```diff
-@@ This course will help you install KOPS at AWS and deploy apps like WordPress and Flask to Kubernetes and Automate jobs with Jenkins installed as a pod in Kubernetes.@@
-```
+
+<h3 style="color:blue;">This course will help you install KOPS at AWS and deploy apps like WordPress and Flask to Kubernetes and Automate jobs with Jenkins installed as a pod in Kubernetes.</h3>
