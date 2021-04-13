@@ -17,3 +17,5 @@ install boto3
 `pip3 install boto3`   
 
 install git   
+
+install docker   
